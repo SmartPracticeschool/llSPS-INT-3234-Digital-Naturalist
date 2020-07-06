@@ -1,0 +1,4 @@
+#Sun Jul 05 16:56:00 IST 2020
+base.0=C\:\\Users\\senthilmurugan\\Desktop\\AI\\Digital Naturalist\\FloraApps\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
